@@ -4,5 +4,5 @@ Os nomes "Maior" e "Menor" ao lado de "Título" são funções que ordenam os li
 
 
 Para iniciar o projeto:
-1- abrir o terminar e entrar na pasta tabela-livros: cd tabela-livros
+1- abrir o terminal e entrar na pasta tabela-livros: cd tabela-livros
 2- rodar o comando npm start.
